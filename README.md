@@ -1,5 +1,3 @@
-<img src="developer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Thiago Henrique Fragata</h1>
 <h4>🦄 Desenvolvedor Front-end & UI Designer</h4>
 <h4>👨🏻‍🎓 Estudante de Engenharia de Software</h4>
