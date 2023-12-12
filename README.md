@@ -1,8 +1,6 @@
 <h1>Olá, eu sou Thiago Henrique Fragata</h1>
 <h3>Engenheiro de Software</h4>
-<h4>Atuo como Desenvolvedor FullStack &</h4>
-<h4>UI Designer</h4>
-
+<h4>Atuo como Desenvolvedor FullStack & UI Design</h4>
 
 <br/>
 
